@@ -2,9 +2,9 @@
 def display_board
   puts "This is a tic tac toe board."
   puts "   |   |   "
-  puts " ------------"
+  puts "-----------"
   puts "   |   |   "
-  puts " ------------"
+  puts "-----------"
   puts "   |   |   "
 end
 
